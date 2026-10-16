@@ -1,0 +1,7 @@
+openai==1.14.0
+arxiv==2.1.0
+ddgs==0.2.1
+python-docx==1.1.0
+streamlit==1.32.2
+langgraph==0.0.26
+langchain-core==0.1.33

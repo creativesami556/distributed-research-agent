@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Project Specific
+*.docx
+agent_memory.json
+*.gguf
